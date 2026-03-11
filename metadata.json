@@ -1,0 +1,5 @@
+{
+  "name": "Sitara AI",
+  "description": "A futuristic AI assistant powered by Gemini for coding, learning, and productivity.",
+  "requestFramePermissions": ["microphone"]
+}
